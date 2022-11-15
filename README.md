@@ -3,6 +3,16 @@
 - 🌱 I'm Developer
 - 🌱 I’m currently learning C++
 
-'''c++
-if(deneme)
+'''cpp
+#include <iostream>
+
+using namespace std;
+  
+int main() {
+   if(me == "unhappy") {
+      code();
+   } else {
+      sleep();
+   }
+}
 '''
