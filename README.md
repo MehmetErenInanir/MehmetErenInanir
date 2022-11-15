@@ -11,7 +11,7 @@ using namespace std;
   
 int main() {
    if(me == "unhappy") {
-      code();
+     code();
    } else {
      sleep();
    }
