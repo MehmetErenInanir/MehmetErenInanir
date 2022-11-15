@@ -3,7 +3,7 @@
 - 🌱 I'm Developer
 - 🌱 I’m currently learning C++
 
-'''cpp
+```cpp
 #include <iostream>
 
 using namespace std;
@@ -15,4 +15,4 @@ int main() {
       sleep();
    }
 }
-'''
+```
