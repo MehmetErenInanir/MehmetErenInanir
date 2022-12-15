@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MehmetErenInanir
 - 👋 [My Website](http://mehmetereninanir.github.io/ "Mehmet Eren İnanır")
 - 🌱 I'm Developer
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
